@@ -27,17 +27,19 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
    git clone https://github.com/your-username/pomodoro-timer.git
    ```
 
-Change to the project directory:
-bash
-cd pomodoro-timer
+2. Change to the project directory:
+   ```bash
+   cd pomodoro-timer
+   ```
 
-Install the required dependencies:
-bash
-pip install -r requirements.txt
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Run the application:
-bash
-python pomodoro_timer.py
-
+4. Run the application:
+   ```bash
+   python pomodoro_timer.py
+   ```
 The Pomodoro Timer window will open. Click the Start button to begin the timer.
 The timer will automatically switch between work intervals and breaks according to the Pomodoro Technique. You can pause or reset the timer using the respective buttons.
