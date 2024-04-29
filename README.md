@@ -32,12 +32,7 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
    cd pomodoro-timer
    ```
 
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the application:
+3. Run the application:
    ```bash
    python pomodoro_timer.py
    ```
